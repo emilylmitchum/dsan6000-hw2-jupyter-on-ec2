@@ -1,4 +1,5 @@
 # DSAN 6000 Homework 2: Jupyter on EC2
+Emily Mitchum
 
 **Due Friday, September 18, 5:59pm EDT**
 
